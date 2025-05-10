@@ -10,5 +10,5 @@ Note: This project was done through Google Colab and the datasets were imported 
 2. Open the Final_Project.ipynb notebook and run the first two cells. If mounting Drive worked, then you may ignore the following cell (where the csv files are read through manual upload).
 3. Continue running the other cells one by one to train and evaluate the regression models.
 
-Here is a video demonstration of how to run this project: [Video Demo](https://drive.google.com/drive/u/3/folders/1EkW5FspR83ClNs3qXD1vAz-f0CK1Gk57)
+Here is a video demonstration of how to run this project: [Video Demo](https://drive.google.com/file/d/11XBy8vUSFZpCibKycDEUk1rYRSFcc2Gk/view?usp=sharing)
 If you have any questions or issues with running the project, feel free to contact us for help!
